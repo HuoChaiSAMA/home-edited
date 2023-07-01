@@ -46,32 +46,32 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://blog.hcspace.top/hexo/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://pan.hcspace.top/",
   },
   {
     icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
+    name: "模拟器",
+    link: "https://sim.hcspace.top/",
   },
   {
     icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
+    name: "论坛",
+    link: "https://talk.hcspace.top/",
   },
   {
     icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
+    name: "商城",
+    link: "https://shop.hcspace.top/",
   },
   {
     icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
+    name: "直播",
+    link: "https://live.hcspace.top/tools/xgplayer.html?url=https://live.hcspace.top/live/livestream.flv",
   },
 ];
 

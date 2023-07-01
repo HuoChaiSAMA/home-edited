@@ -15,8 +15,8 @@
         </a></span
       >&nbsp;&amp;
       <!-- 站点备案 -->
-      <a href="https://beian.miit.gov.cn" target="_blank"
-        >豫ICP备2022018134号-1</a
+      <a href="https://icp.gov.moe/?keyword=20231121" target="_blank"
+        >萌ICP备20231121号</a
       >
     </div>
     <div class="lrc" v-show="store.playerState">
