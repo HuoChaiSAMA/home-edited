@@ -1,46 +1,42 @@
 [
-  [
-    {
-      "icon": "Blog",
-      "name": "博客",
-      "link": "https://blog.hcspace.top/hexo/"
-    },
-    {
-      "icon": "Cloud",
-      "name": "网盘",
-      "link": "https://pan.hcspace.top/"
-    },
-    {
-      "icon": "CompactDisc",
-      "name": "音乐",
-      "link": "https://music.hcspace.top/"
-    },
-    {
-      "icon": "Discourse",
-      "name": "论坛",
-      "link": "https://talk.hcspace.top/"
-    },
-    {
-      "icon": "CodeBranch",
-      "name": "OI-wiki",
-      "link": "https://oi-wiki.hcspace.top/"
-    },
-    {
-      "icon": "Fire",
-      "name": "直播",
-      "link": "https://live.hcspace.top/tools/xgplayer.html?url=https://live.hcspace.top/live/livestream.flv"
-    }
-  ],
-  [
-    {
-      "icon": "ProjectDiagram",
-      "name": "项目集",
-      "link": "https://prj.hcspace.top"
-    },
-    {
-      "icon": "Fill",
-      "name": "化学实验室",
-      "link": "https://chem.hcspace.top"
-    }
-  ]
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.hcspace.top/hexo/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://pan.hcspace.top/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.hcspace.top/"
+  },
+  {
+    "icon": "Discourse",
+    "name": "论坛",
+    "link": "https://talk.hcspace.top/"
+  },
+  {
+    "icon": "CodeBranch",
+    "name": "OI-wiki",
+    "link": "https://oi-wiki.hcspace.top/"
+  },
+  {
+    "icon": "Fire",
+    "name": "直播",
+    "link": "https://live.hcspace.top/tools/xgplayer.html?url=https://live.hcspace.top/live/livestream.flv"
+  },
+  {
+    "icon": "ProjectDiagram",
+    "name": "项目集",
+    "link": "https://prj.hcspace.top"
+  },
+  {
+    "icon": "Fill",
+    "name": "化学实验室",
+    "link": "https://chem.hcspace.top"
+  }
 ]
