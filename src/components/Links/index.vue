@@ -57,6 +57,10 @@ import {
   Book,
   Fire,
   LaptopCode,
+  ProjectDiagram,
+  Discourse,
+  Fill,
+  CodeBranch,
 } from "@vicons/fa";
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
@@ -76,6 +80,10 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  ProjectDiagram,
+  Discourse,
+  Fill,
+  CodeBranch,
 };
 
 // 链接跳转

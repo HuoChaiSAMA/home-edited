@@ -16,12 +16,12 @@
       "link": "https://music.hcspace.top/"
     },
     {
-      "icon": "Compass",
+      "icon": "Discourse",
       "name": "论坛",
       "link": "https://talk.hcspace.top/"
     },
     {
-      "icon": "Book",
+      "icon": "CodeBranch",
       "name": "OI-wiki",
       "link": "https://oi-wiki.hcspace.top/"
     },
@@ -33,9 +33,14 @@
   ],
   [
     {
-      "icon": "LaptopCode",
+      "icon": "ProjectDiagram",
       "name": "项目集",
       "link": "https://prj.hcspace.top"
+    },
+    {
+      "icon": "Fill",
+      "name": "化学实验室",
+      "link": "https://chem.hcspace.top"
     }
   ]
 ]
