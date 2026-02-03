@@ -2,36 +2,6 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.hcspace.top/hexo/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.hcspace.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://site.hcspace.top/music/"
-  },
-  {
-    "icon": "Discourse",
-    "name": "论坛",
-    "link": "https://talk.hcspace.top/"
-  },
-  {
-    "icon": "CodeBranch",
-    "name": "OI-wiki",
-    "link": "https://site.hcspace.top/oi-wiki/"
-  },
-  {
-    "icon": "ProjectDiagram",
-    "name": "项目集",
-    "link": "https://site.hcspace.top/projects/"
-  },
-  {
-    "icon": "Fill",
-    "name": "化学实验室",
-    "link": "https://site.hcspace.top/chemistry/"
+    "link": "https://henerii.cn/hexo/"
   }
 ]

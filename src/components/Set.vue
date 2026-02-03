@@ -6,7 +6,7 @@
           <el-radio-group v-model="coverType" text-color="#ffffff" @change="radioChange">
             <el-radio label="0" size="large" border>默认壁纸</el-radio>
             <el-radio label="1" size="large" border>每日一图</el-radio>
-            <el-radio label="2" size="large" border>随机风景</el-radio>
+            <!-- <el-radio label="2" size="large" border>随机风景</el-radio> -->
             <el-radio label="3" size="large" border>随机动漫</el-radio>
           </el-radio-group>
         </div>
